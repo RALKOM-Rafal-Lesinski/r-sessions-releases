@@ -25,6 +25,11 @@ The full user guide (36 pages, PDF) covers every part of the app, with short exp
 - [R-Sessions user guide (English)](docs/R-Sessions-user-guide-EN.pdf)
 - [Instrukcja obsługi R-Sessions (polski)](docs/R-Sessions-instrukcja-PL.pdf)
 
+A short four-page brochure (features, Free and Pro):
+
+- [R-Sessions brochure (English)](docs/R-Sessions-brochure-EN.pdf)
+- [Broszura R-Sessions (polski)](docs/R-Sessions-broszura-PL.pdf)
+
 ## Verifying the Windows installer
 
 The `.exe` and `.msi` files are signed by **RALKOM RAFAŁ LESIŃSKI**. To check:
