@@ -18,6 +18,13 @@ Open the [latest release](../../releases/latest) and pick the file for your syst
 
 Installed copies check for updates once a day and can install them from Settings > About. The `.sig` files and `latest.json` are used by that update check; you do not need to download them.
 
+## User guide
+
+The full user guide (36 pages, PDF) covers every part of the app, with short explanations of terms such as tunnels and jump hosts:
+
+- [R-Sessions user guide (English)](docs/R-Sessions-user-guide-EN.pdf)
+- [Instrukcja obsługi R-Sessions (polski)](docs/R-Sessions-instrukcja-PL.pdf)
+
 ## Verifying the Windows installer
 
 The `.exe` and `.msi` files are signed by **RALKOM RAFAŁ LESIŃSKI**. To check:
