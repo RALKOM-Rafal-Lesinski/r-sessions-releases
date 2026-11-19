@@ -20,7 +20,7 @@ Installed copies check for updates once a day and can install them from Settings
 
 ## User guide
 
-The full user guide (36 pages, PDF) covers every part of the app, with short explanations of terms such as tunnels and jump hosts:
+The full user guide (42 pages, PDF, version 1.1) covers every part of the app, with short explanations of terms such as tunnels and jump hosts:
 
 - [R-Sessions user guide (English)](docs/R-Sessions-user-guide-EN.pdf)
 - [Instrukcja obsługi R-Sessions (polski)](docs/R-Sessions-instrukcja-PL.pdf)
